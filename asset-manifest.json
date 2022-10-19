@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f36c1d6.css",
-    "main.js": "/static/js/main.703b0c82.js",
-    "static/media/phone-1.png": "/static/media/phone-1.8a2e4d16a156535e8be2.png",
-    "static/media/logo.png": "/static/media/logo.5fcb8930e8b316281f2e.png",
-    "static/media/stats-icon.png": "/static/media/stats-icon.488e9e1d09ca9f82efc6.png",
-    "static/media/link.png": "/static/media/link.ec1c971c0a66905c4fed.png",
-    "static/media/trash-icon.png": "/static/media/trash-icon.fdc3293f775e85d75cad.png",
-    "index.html": "/index.html",
-    "main.5f36c1d6.css.map": "/static/css/main.5f36c1d6.css.map",
-    "main.703b0c82.js.map": "/static/js/main.703b0c82.js.map"
+    "main.css": "/jaskolka/static/css/main.5f36c1d6.css",
+    "main.js": "/jaskolka/static/js/main.ef1f5736.js",
+    "static/media/phone-1.png": "/jaskolka/static/media/phone-1.8a2e4d16a156535e8be2.png",
+    "static/media/logo.png": "/jaskolka/static/media/logo.5fcb8930e8b316281f2e.png",
+    "static/media/stats-icon.png": "/jaskolka/static/media/stats-icon.488e9e1d09ca9f82efc6.png",
+    "static/media/link.png": "/jaskolka/static/media/link.ec1c971c0a66905c4fed.png",
+    "static/media/trash-icon.png": "/jaskolka/static/media/trash-icon.fdc3293f775e85d75cad.png",
+    "index.html": "/jaskolka/index.html",
+    "main.5f36c1d6.css.map": "/jaskolka/static/css/main.5f36c1d6.css.map",
+    "main.ef1f5736.js.map": "/jaskolka/static/js/main.ef1f5736.js.map"
   },
   "entrypoints": [
     "static/css/main.5f36c1d6.css",
-    "static/js/main.703b0c82.js"
+    "static/js/main.ef1f5736.js"
   ]
 }
